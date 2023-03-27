@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.cardji{
+  display: flex;
+  float: left;
+  
+}
+.card1{
+  height: 500px;
+  width:360px
+}
